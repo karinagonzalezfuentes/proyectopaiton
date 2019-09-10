@@ -1,0 +1,4 @@
+1. Levantar entorno virtual en esta carpeta
+2. Ejecutar Jupyter notebook
+3. Ejecutar archivo "Analisis_Monedas_SBIF.ipynb"
+4. Seguir las instrucciones escritas en el archivo.
